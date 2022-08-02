@@ -1,0 +1,3 @@
+10 LET X = 3
+20 LET Y = 5
+30 PRINT X+Y
