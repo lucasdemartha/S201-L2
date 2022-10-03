@@ -1,0 +1,2 @@
+2.A respeito do seguinte código em Python, podemos afirmar que:
+R.: alternativa C. (A classe BigDog herda da classe Dog, e é possível chamar todos os métodos daclasse Dog.)

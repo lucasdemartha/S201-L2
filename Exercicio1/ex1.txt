@@ -1,0 +1,9 @@
+1.A respeito do seguinte código na linguagem GO, marque verdadeiro ou falso para as
+seguintes afirmações:
+(falso) O código retornaria um erro na linha 10, pois não se pode usar ‘&’ junto com o nome
+da variável.
+(verdadeiro) Caso você entrasse com os valores ‘5’ e ‘12’, o valor impresso na linha 13 usando a
+função add() seria igual a 17. (Assumindo que o código rode sem erros.)
+(verdadeiro) É permitido que declaremos uma variável sem ter que definirmos seu valor
+inicialmente.
+(falso) A função sub está correto, pois não é sempre necessário declarar o tipo da variável.
