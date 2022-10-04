@@ -1,0 +1,5 @@
+A respeito da linguagem C#, marque V ou F para as seguintes afirmações:
+(verdadeiro) A classe Cachorro herda todos os métodos da classe Animal.
+(falso) O atributo raca da classe Cachorro é público, e não privado, visto que declaramos eledentro de uma classe herdada.
+(falso) A linha 32 retornaria um erro, pois raca é um atributo privado, fazendo com que ométodo não funcione.
+(falso) A linha 31 resultaria em um erro, pois dog está apenas herdando os atributos daclasse animal, e não seus métodos.

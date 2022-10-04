@@ -1,0 +1,2 @@
+1.A respeito do seguinte código na linguagem Lua, marque a alternativa correta:
+R.: alternativa E (Nenhuma das alternativas acima.)
