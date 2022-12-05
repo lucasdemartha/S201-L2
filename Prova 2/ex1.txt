@@ -1,0 +1,1 @@
+ALTERNATIVA B - A linha 11 irá mostrar 200, pois head é o primeiro elemento da lista.

@@ -1,0 +1,5 @@
+(F) Não é possível fazer operações aritimétricas na linguagem Prolog devido a sua
+natureza.
+(F) Variáveis podem começar com letra maiúscula ou minúscula.
+(V) Variáveis podem ter qualquer nome, desde que tenham _ ou letra maiúscula.
+(F) Para declarar predicados, é necessário no mínimo 3 valores.

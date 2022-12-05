@@ -1,0 +1,1 @@
+c)A linha 10 irá imprimir o último valor da lista b, que é o inverso da lista mappedFunction.

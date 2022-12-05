@@ -1,0 +1,4 @@
+(V) Variáveis não devem começar com letra minúscula.
+(F) É impossível fazer operações aritimétricas na linguagem Prolog.
+(F) Predicados devem começam com letra maiúscula.
+(V) Predicados podem ter no máximo 2 parâmetros.
